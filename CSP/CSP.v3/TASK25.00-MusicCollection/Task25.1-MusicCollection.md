@@ -52,11 +52,3 @@ Fortunately, the **Theory of Computation** provides us with the tools to address
    g) If I have collections of waltzes for flute, piano, trumpet, and cello — how can I obtain a collection of waltzes for the four instruments combined?
    h) Is it possible to form the collection of all songs that are **not operas**?
    i) Knowing both the score and its corresponding MP3 file, is it possible to use one in place of the other (can one be seen as an encoding of the other)?
-
-
-
-## Authorship
-
-Activity based on the problem **Coleção de Músicas**, by Prof. *Martin Musicante* – UFRN.
-
-
