@@ -1,4 +1,4 @@
-# MATC94 – Introduction to Formal Languages and Theory of Computation
+# Introduction to Formal Languages and Theory of Computation
 
 ## Topics Related to the Problem
 
