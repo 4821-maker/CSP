@@ -77,7 +77,7 @@ Develop finite automata and regular expressions to solve “real” problems, as
 
 
 ### </a> References 
-This problem is based on the lecture notes of Professor Martin Musicante 2</sup> do DIMAP - UFRN. <sup>2<https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=12212512></sup>
+This problem is based on the lecture notes of Professor Martin Musicante 2</sup> do DIMAP - UFRN.
 
 RAMOS, M. V. M.; JOSE NETO, J.; VEGA, I. S. **Linguagens Formais: Teoria, Modelagem e Implementação**. Editora Bookman, 2009.
 
