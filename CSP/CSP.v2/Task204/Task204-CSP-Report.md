@@ -77,7 +77,7 @@ Upon completion of this task, students are expected to demonstrate the following
 
 ## 4. Competency Specification
 
-Based on the **EdukNow Competence Project**, the following competencies were reused to address Task204. Their selection reflects the distinction between **core theoretical reasoning**, **supporting modeling activities**, and **transversal communication competencies**, as validated through expert review.
+Based on the **EdukNow Competence Project**, the following competencies were reused to address Task204. Their selection reflects the distinction between **core theoretical reasoning**, **supporting modeling activities**, and **transversal communication competencies**.
 
 
 ### **C06 – Develop Problem-Solving Solutions Using Finite State Machines**
