@@ -87,16 +87,6 @@ These learning objectives ensure that students combine theoretical and applied k
 
 To support the learning objectives of Task 05, the **competency set defined for Task 02 (*Traffic Control*) is intentionally reused**, as both tasks involve the design, simulation, and documentation of systems modeled using **Turing Machines**. This strategic reuse ensures alignment between instructional goals and promotes coherence across the curriculum.
 
-The decision not to revise or generate a new Competency Specification Review Process (CSRP) for Task 05 is justified by the following pedagogical and methodological considerations:
-
-* **Consistency**: Reinforces key cognitive processes and technical proficiencies—such as formal modeling, symbolic representation, and systematic problem-solving—through repeated application in varied contexts.
-
-* **Efficiency**: Eliminates redundancy in the specification process, allowing instructional focus to shift from redefinition to deeper engagement with the same competency framework.
-
-* **Scalability**: Demonstrates the applicability of well-structured competencies across multiple problem domains, fostering the transfer of learning and strengthening their instructional relevance.
-
-* **Traceability**: Enhances the visibility and continuity of learner progress by preserving competency alignment across tasks, thereby supporting a competency-based education model rooted in transparent and cumulative achievement tracking.
-
 As a result, Task 05 leverages an established and validated set of competencies without the need for additional review or adjustment.
 
 
