@@ -1,61 +1,54 @@
 # Supplementary Materials for the Competency Specification Process (CSP)
 
-This repository contains supplementary artifacts associated with the application of the **Competency Specification Process (CSP)** in Computing Education contexts.
+This repository contains supplementary educational and methodological artifacts related to the application of the **Competency Specification Process (CSP)** in Computing Education.
 
-The materials document how educational tasks were analyzed and transformed into competence specifications through cycles of elicitation, review, refinement, consolidation, and reuse.
+The repository is organized around instructional task descriptions and the corresponding competency-specification reports. The reports present document-based analyses of task requirements, expected learner actions, relevant knowledge, skills, dispositions, learning objectives, and competency relationships.
 
-## Note for Anonymous Review
+## Repository Scope
 
-This repository was prepared for academic review purposes. Before submission to an anonymous review process, all files should be checked to remove personal names, institutions, email addresses, authorship identifiers, file metadata, and commit history that could reveal the identity of the authors.
+The materials are provided to support the description and reproducibility of the competency-specification procedure. They include:
 
-## Repository Purpose
+1. instructional task descriptions used as the input of the CSP;
+2. CSP reports derived from the analysis of those task descriptions;
+3. competency reuse and alignment records included within the CSP reports;
+4. references to curricula, taxonomies, and disciplinary frameworks used in the specifications.
 
-The purpose of this repository is to complement the paper by providing evidence on:
-
-1. how educational tasks were used as starting points for competence specification;
-2. how competences were formulated, reviewed, and refined across CSP cycles;
-3. how decisions involving reuse, specialization, consolidation, or exclusion were recorded;
-4. how the produced artifacts support the methodological analysis presented in the study.
-
-This repository is not intended to evaluate student performance or learning outcomes. Its focus is the process of competence specification and refinement.
+The repository does **not** contain interview transcripts, questionnaires, expert-review statements, participant opinions, individual student responses, grades, performance records, or identifiable personal data collected for research purposes.
 
 ## Repository Structure
 
-| Folder    | Description                                                                    |
-| --------- | ------------------------------------------------------------------------------ |
-| `CSP.v1/` | Initial cycle of competence elicitation from educational tasks.                |
-| `CSP.v2/` | Review, reuse, and refinement cycle based on previously specified competences. |
-| `CSP.v3/` | Consolidation cycle and application of the CSP in new educational contexts.    |
+| Folder | Contents |
+| --- | --- |
+| `CSP/CSP.v1/` | Initial set of instructional tasks and their CSP reports. |
+| `CSP/CSP.v2/` | Additional tasks that extend or reuse competencies specified in the earlier set. |
+| `CSP/CSP.v3/` | Further applications of the CSP in different Computing Education tasks and curricular contexts. |
 
-## Artifact Types
+Each task folder generally contains two artifacts:
 
-| Artifact type | Description                                                     |
-| ------------- | --------------------------------------------------------------- |
-| `Description` | Educational task description used as input for the CSP.         |
-| `CSP-Report`  | Report documenting the competence specification.                |
-| `CSRP-Report` | Report documenting the review of the competence specifications. |
-| `Adjustments` | Record of adjustments made after review.                        |
+| Artifact | Description |
+| --- | --- |
+| Task description | Instructional problem, activity, requirements, deliverables, and learning objectives used as input for the analysis. |
+| `CSP-Report` | Competency specification produced from the task description and the adopted theoretical or curricular references. |
 
-## How to Read the Files
+Some folders may also contain images required by the instructional task.
 
-For each task, the recommended reading order is:
+## How to Read the Materials
 
-1. educational task description;
-2. CSP report;
-3. CSRP review report, when available;
-4. adjustment report, when available.
+For each task, read the files in the following order:
 
-This sequence allows readers to observe how each task was analyzed, how competences were formulated, and which refinement decisions were made throughout the process.
+1. the instructional task description;
+2. the corresponding `CSP-Report`.
 
-## Relationship to the Paper
+The task description defines the instructional context and expected artifacts. The CSP report identifies the competencies associated with the task and documents their components, relationships, and intended evidence.
 
-The artifacts in this repository support the research questions of the study by documenting:
+## Methodological Boundaries
 
-1. the elicitation of competences from educational tasks in Computing Education;
-2. the role of iterative review in producing clearer, better delimited, and more reusable competence formulations.
+The competency specifications in this repository are analytical artifacts produced from instructional documents and reference frameworks. Statements about required knowledge, skills, dispositions, competency reuse, or curricular alignment represent the authors' methodological modeling of the tasks; they must not be interpreted as findings obtained from interviews, surveys, focus groups, expert panels, or other human-participant procedures.
 
-## Ethical Note
+References to students, teams, tutors, companies, or professionals inside task descriptions are components of the instructional scenarios or assignment procedures. They are not records of research participants or reports of participant testimony.
 
-The materials in this repository consist of methodological and instructional artifacts. The repository should not contain individual student responses, grades, performance records, or personal data.
+## Ethical and Privacy Note
 
-If any file contains sensitive or identifiable information, it must be removed or anonymized before publication.
+Before public release or anonymous academic review, repository contents and file metadata should be checked for names, institutional identifiers, email addresses, authorship information, and other elements that could reveal the authors' identities.
+
+No artifact containing human-participant data or identifiable learner information should be added to this repository without the applicable ethical approval, authorization, and data-protection procedures.
